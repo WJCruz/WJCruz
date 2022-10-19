@@ -13,7 +13,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://user-images.githubusercontent.com/102706133/196793773-971d761b-b486-437f-be97-1a5d0e472a13.png" />](https://www.linkedin.com/in/wilder-javier-cruz-aranda/)
 
-<br />
+<br /><br />
 
 ### Languages and Tools:
 
@@ -28,7 +28,7 @@
 [<img align="left" width="70px" src="https://user-images.githubusercontent.com/102706133/196797164-43363da1-c1a2-43ae-b5bc-a4b6cae833bc.png" />](https://www.docker.com/)
 [<img align="left" width="50px" src="https://user-images.githubusercontent.com/102706133/196797620-3b1c2cbb-e21b-45db-889b-d8fe05be6404.png" />](https://www.python.org/)
 
-<br /><br />
+<br /><br /><br /><br />
 
 ### 📕 STATS
 
