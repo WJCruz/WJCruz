@@ -8,6 +8,7 @@
 - 📫 How to reach me: **wilder.cruz.a@uni.pe**
 - ⚡ Fun fact: I love reading and listening to music
 
+<br />
 
 ### Connect with me:
 
